@@ -9,6 +9,7 @@ LLM-Powered Responses: Utilizes Llama 2 through Ollama for generating intelligen
 LangChain Integration: Implements prompt engineering and structured query handling for enhanced responses.
 Streamlit UI: Provides a simple and interactive web-based interface for users.
 Optimized Performance: Ensures fast response generation with efficient processing.
+
 🛠 Technologies Used:
 Llama 2 (via Ollama)
 LangChain
